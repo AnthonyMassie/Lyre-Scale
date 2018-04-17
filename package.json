@@ -1,0 +1,26 @@
+{
+    "name": "@lyre/scale",
+    "version": "0.0.1-alpha",
+    "description": "Library for creating Western music scales.",
+    "main": "index.js",
+    "scripts": {
+        "test": "./node_modules/.bin/mocha",
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Attibee/Lyre-Scale.git"
+    },
+    "keywords": [
+        "attibee",
+        "lyre",
+        "scale",
+        "music",
+        "western"
+    ],
+    "author": "Attibee",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/Attibee/Lyre-Scale/issues"
+    },
+    "homepage": "https://github.com/Attibee/Lyre-Scale#readme"
+}
